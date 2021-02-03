@@ -1,20 +1,20 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper">
+  <div class="wrapper-header">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <!-- Original Code  -->
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> 
+    <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>  -->
    
 
     <!-- Custom add title and logo -->
-    <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
         <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}">
         {%- else -%}
         {{ site.title | escape }}
       {%- endif -%}
-    </a> -->
+    </a>
     <!-- End title and logo -->
 
     {%- if page_paths -%}
