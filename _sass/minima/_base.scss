@@ -106,13 +106,13 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  // &:visited {
+  //   color: darken($brand-color, 15%);
+  // }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: darken($brand-color, 15%);
+    transition: all ease 0.3s;
   }
 
   .social-media-list &:hover {
