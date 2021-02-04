@@ -57,6 +57,12 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  border: double;
+  border-radius: 10px;
+}
+
+.site-title img{
+  border: none;
 }
 
 
@@ -151,7 +157,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #272822;
 }
 
 code {
