@@ -21,7 +21,7 @@
 title: BlogBox
 email: tejasanerao75@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my Blog site where I will be sharing my blogs related to the Projects, CTF writeups like HTB,THM & VLNB, Cheatsheets, CertExams experience, and more...
+  This is my Personal Blog space where I will be sharing my work such as Projects, CTF writeups like HTB,THM & VLNB, Cheatsheets, CertExams experience, and more...
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://tejasanerao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tejas_anerao

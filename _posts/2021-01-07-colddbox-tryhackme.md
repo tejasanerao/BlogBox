@@ -2,13 +2,15 @@
 layout: post
 title:  "ColddBox - TryHackMe Walkthrough"
 date:   2021-01-07 10:12:30 +0530
-categories: Writeup Blog
+categories: WriteupBlog
 ---
 ColddBox is a Beginner Friendly machine. It’s a free machine on TryHackMe(no need of subscription).
 
 Link: <a href="https://tryhackme.com/room/colddboxeasy">https://tryhackme.com/room/colddboxeasy</a>
 
+{:refdef: style="text-align: center;"}
 ![Image]({{ "/assets/images/thm/colddbox/thmbanner.png" | relative_url}})
+{: refdef}
 
 ## Overview:
 
