@@ -4,7 +4,7 @@ title:  "Archangel - TryHackMe Walkthrough"
 date:   2021-02-04 10:12:30 +0530
 categories: WriteupBlog
 ---
-Another interesting really good machine from <a href="https://tryhackme.com/">TryHackMe</a> created by <a href="https://tryhackme.com/p/Archangel">@Archangel</a>. Access the room <a href="https://tryhackme.com/room/archangel">here</a>.
+Another interesting and really good machine from <a href="https://tryhackme.com/">TryHackMe</a> created by <a href="https://tryhackme.com/p/Archangel">@Archangel</a>. Access the room <a href="https://tryhackme.com/room/archangel">here</a>.
 
 {:refdef: style="text-align: center;"}
 ![Image]({{ "/assets/images/thm/archangel/banner.png" | relative_url}})
