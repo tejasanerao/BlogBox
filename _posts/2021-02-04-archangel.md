@@ -227,7 +227,7 @@ undefined8 main(void)
 }
 ```
 
-The binary executes system command to copy files from one directory to another. But it doesn't use full path for **cp** command. So, we can creating our own binary named **cp** which will get us the root shell and point the $PATH to our directory.
+The binary executes system command to copy files from one directory to another. But it doesn't use full path for **cp** command. So, we can create our own binary named **cp** and point the $PATH to our directory which will get us the root shell.
 
 ```shell
 echo '#!/bin/bash' > cp
