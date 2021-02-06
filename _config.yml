@@ -61,8 +61,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-analytics:
-  enabled: true                                        # Set true to enable analytics
-  google:
-    tracking_id: UA-189052754-1
-
+google_analytics: UA-189052754-1
