@@ -153,6 +153,8 @@ Now start a netcat listener on your machine on the port 1234(Or the one you spec
 ```shell
 nc -nvlp 1234
 ```
+Access the page in the browser **mafialive.thm/shell.php**
+
 <br>
 {:refdef: style="text-align: center;"}
 ![Image]({{ "/assets/images/thm/archangel/revshell.png" | relative_url}})
