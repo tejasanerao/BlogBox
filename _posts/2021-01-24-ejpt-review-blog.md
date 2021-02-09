@@ -83,7 +83,7 @@ In this section I will give you some tips that I personally followed and they re
 
 I have created a cheatsheet for eJPT exam. Its always good to have everything in one place. You can make your own if you want. But I will be sharing with you the one I managed to make.
 
-<a href="https://github.com/tejasanerao/eJPT-Cheatsheet">Get the cheatsheet here.</a>
+[Get the cheatsheet here]({{ "/blog/misc/ejpt-cheatsheet" | relative_url }} )
 
 ## <b>Verdict</b>
 
