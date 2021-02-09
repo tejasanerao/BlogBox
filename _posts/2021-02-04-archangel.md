@@ -155,7 +155,7 @@ Verify that the shell is successfully downloaded using **ls -l** command.
 ![Image]({{ "/assets/images/thm/archangel/shelldownloaded.png" | relative_url}})
 <br>
 
-Now start a netcat listener on your machine on the port 1234(Or the one you specified in the shell) and access the shell in browser at mafialive.thm/shell.php
+Now start a netcat listener on your machine on the port 1234(Or the one you specified in the shell) and access the shell in browser at **mafialive.thm/shell.php**
 ```shell
 nc -nvlp 1234
 ```
