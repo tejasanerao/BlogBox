@@ -3,5 +3,5 @@
     <i>Welcome to my Personal Blog Space where I share my work such as Projects, Walkthroughs for THM, HTB, & VLNB,
                       Cheatsheets, CertExam Experiences & much more...</i>
     <br><br>
-    <img src="/assets/images/mypic.png" width="50%">
+    <img src="/assets/images/mypic.png" width="30%">
 </div>
