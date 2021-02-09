@@ -1,0 +1,15 @@
+- name: C++
+  percentage: 80
+  color: danger
+
+- name: Python
+  percentage: 85
+  color:
+
+- name: Bash
+  percentage: 65
+  color: info
+
+- name: SQL
+  percentage: 85
+  color: warning

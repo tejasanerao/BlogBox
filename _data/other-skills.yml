@@ -1,0 +1,15 @@
+- name: Attention to Detail
+  percentage: 95
+  color: info
+
+- name: Responsibility
+  percentage: 90
+  color: success
+
+- name: Flexibility
+  percentage: 90
+  color: dark
+
+- name: Problem Solving
+  percentage: 80
+  color: danger

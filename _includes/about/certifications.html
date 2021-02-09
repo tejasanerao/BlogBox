@@ -1,0 +1,26 @@
+<!-- <div class="col mt-4">
+    <div class="timeline-body">
+      {% for item in site.data.certifications %}
+        <div class="timeline-item">
+          <div class="content">
+            <h2>{{ item.title }}</h2>
+            <h6 class="date">{{ item.year }}</h6>
+            <p>{{ item.description }}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="card-group mt-2">
+
+    {% for post in site.posts %}
+      {% include blog/post-card.html %}
+    {% endfor %}
+    
+  </div> -->
+  {% for item in site.data.certifications %}
+  <div class="col-lg-4 col-md-6 cert-logo">
+        <a href="{{ item.link | relative_url }}"><img src="{{ item.image }}" alt="" srcset=""></a>
+  </div>
+  {% endfor %}
