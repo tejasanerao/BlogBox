@@ -107,7 +107,7 @@ hydra http://10.10.10.10/ http-post-form "/login.php:user=^USER^&password=^PASS^
 ```
 
 *This is a great filter bypass cheatsheet*\
-https://owasp.org/www-community/xss-filter-evasion-cheatsheet
+[Owasp XSS Cheatsheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
 
 ## msfvenom shells
 **JSP Java Meterpreter Reverse TCP**
