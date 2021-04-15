@@ -50,7 +50,7 @@ Labs are the best part of INE’s course material. There are multiple lab assign
 
 ### Black Box Penetration Labs:
 
-You get 3 black box penetration labs at the end of the course material. And this is every all your accumulated knowledge will be used. To be honest, these labs just surprised me. These were lot better and complex than I expected. This is where you will get to know the difference between an Internal Penetration Testing and CTFs(HTB, THM boxes). I got stuck multiple times and I had to refer the solution. When you complete these, make a note of all the new methods or tools you encountered. Do the labs twice or thrice just to make your methodology strong.
+You get 3 black box penetration labs at the end of the course material. And this is where all your accumulated knowledge will be used. To be honest, these labs just surprised me. These were lot better and complex than I expected. This is where you will get to know the difference between an Internal Penetration Testing and CTFs(HTB, THM boxes). I got stuck multiple times and I had to refer the solution. When you complete these, make a note of all the new methods or tools you encountered. Do the labs twice or thrice just to make your methodology strong.
 
 ## <b>Exam</b>
 
