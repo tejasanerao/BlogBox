@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave: :smile:,<br>
-A Cybersecurity Enthusiast and completely dedicated towards the **Security of Network** and all the assets present in it. A person who is very particular about time and the one who wants to do things in perfect manner inorder to achieve the best output. My willingness to keep learning new things makes me honest towards the path I have chosen. Possesses deep understanding of the **Linux systems** and Databases like **MySQL**, **Oracle** and **MongoDB**. I am Currently preparing for my **OSCP**(Offensive Security Certified Professional). Also Looking forward to understand **Cloud Security** in depth.
+Practical and Versatile Computer Engineer working with Web Application Security, Penetration Testing, and Software Development. Certified eLearnSecurity Junior Penetration Tester and looking forward to being Offensive Security Certified Professional(OSCP). Possesses a good understanding of Linux Systems, Database Management Systems, and Computer Networks.
 
 <div style="text-align: center">
 <h1>Major Certifications</h1>
